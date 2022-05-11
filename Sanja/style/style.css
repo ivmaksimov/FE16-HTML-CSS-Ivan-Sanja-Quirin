@@ -6,11 +6,11 @@
 #first {}
 
 #second {
-    display: none;
+    /* display: none; */
 }
 
 #third {
-    display: none;
+    /* display: none; */
 }
 
 #fourth {}
@@ -25,9 +25,13 @@
 #sixth {}
 
 h1 {
-    display: none;
+    /* display: none; */
 }
 
 img {
     visibility: visible;
+}
+
+#big_font {
+    font-size: large;
 }
