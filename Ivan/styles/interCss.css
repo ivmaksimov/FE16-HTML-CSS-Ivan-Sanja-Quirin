@@ -1,0 +1,26 @@
+body{
+  background-color: aliceblue;
+}
+
+a{
+  text-decoration: none;
+  color: rgb(241, 7, 7);
+}
+li{
+  display: inline-block;
+  margin-right:50px ;
+
+}
+button{
+  border: 1px solid black;
+  border-radius: 30px;
+  background-color: aquamarine;
+  
+}
+
+img{
+  width: 100%;
+}
+textarea{
+  resize: none;
+}
