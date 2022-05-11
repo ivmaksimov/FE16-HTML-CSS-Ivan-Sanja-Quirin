@@ -10,8 +10,7 @@ body {
   margin: 20px;
   float: right;
 }
-p {
-}
+
 .sidebar {
   background: rgb(240, 236, 8);
   float: right;
@@ -101,11 +100,4 @@ a:hover {
   background: lawngreen;
 }
 
-@keyframes fade-in {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
+
