@@ -1,15 +1,37 @@
-.left {}
+.left {
+    border: 1;
+    margin: 5px;
+}
 
 #first {}
 
-#second {}
+#second {
+    /* display: none; */
+}
 
-#third {}
+#third {
+    /* display: none; */
+}
 
 #fourth {}
 
-.right {}
+.right {
+    border: 1;
+    margin: 5px;
+}
 
 #fifth {}
 
 #sixth {}
+
+h1 {
+    /* display: none; */
+}
+
+img {
+    visibility: visible;
+}
+
+#big_font {
+    font-size: large;
+}
