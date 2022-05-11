@@ -7,10 +7,7 @@ body {
   text-align: center;
   width: 100%;
 }
-.content {
-  animation-name: fade-in;
-  animation-duration: 2s;
-}
+
 #image-1 {
   height: 400px;
   margin: 20px;
@@ -22,8 +19,7 @@ p {
   background: rgb(240, 236, 8);
   float: right;
   width: 25%;
-  animation-name: fade-in;
-  animation-duration: 2s;
+  
 }
 .post {
   border: rgb(36, 19, 110) 3px solid;
@@ -54,6 +50,10 @@ a:hover {
   
 }
 
+#subtitle2{
+  color: green;
+}
+
 .subtitle {
   color: brown;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
@@ -67,5 +67,6 @@ a:hover {
 #mid {
   margin-left: 30px;
 }
+
 
 
