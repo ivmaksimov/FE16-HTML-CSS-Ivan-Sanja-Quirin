@@ -1,10 +1,13 @@
- 
  body{
+  text-align: center;
+  background-color: antiquewhite;
+ }
+ .flex{
 text-align: center;
 display: flex;
-  align-items: center;
+align-items: center;
   justify-content: center;
-  background-color: antiquewhite;
+  
  }
 
 
@@ -15,4 +18,19 @@ display: flex;
    border: 1px solid black;
  }
 
- 
+.border{
+  border: 1px solid red;
+margin: 5px;
+}
+
+/* #third > p {
+  visibility: hidden;
+} */
+
+ /* #second > * {
+   visibility: hidden;
+ } */
+
+ /* #image1 {
+   visibility: visible;
+ }  */
